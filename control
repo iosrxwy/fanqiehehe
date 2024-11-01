@@ -1,0 +1,10 @@
+Package: com.iosrxwy.fanqiehehe
+Name: fanqiehehe
+Version: 0.1-2
+Description: 番茄小说、番茄畅听、红果短剧解锁会员去广告
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Author: iosrxwy
+Homepage:https://t.me/iosrxwy/
+Architecture: iphoneos-arm
