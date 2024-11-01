@@ -1,0 +1,12 @@
+{
+    Filter = {
+        Bundles = (
+            "com.sina.weibo",
+            "com.dragon.read",
+            "com.phoenix.video",
+            "com.phoenix.read",
+            "com.fq.music",
+            "com.xs.fm"
+        );
+    };
+}
