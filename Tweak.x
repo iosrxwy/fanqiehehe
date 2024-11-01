@@ -25,15 +25,15 @@
 }
 %end
 
-// 解锁番茄畅听等
-%hook BUSplashAdView
-- (void)setSlot:(id)arg1 {
-}
-%end
-
+// 顺便解锁番茄畅听等
 %hook SSUser
 - (bool)isVip {
     return 1;
+}
+%end
+
+%hook BUSplashAdView
+- (void)setSlot:(id)arg1 {
 }
 %end
 
